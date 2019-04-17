@@ -44,6 +44,6 @@ This project requires **Python 3.6** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [seaborn] (https://seaborn.pydata.org/index.html)
+- [seaborn](https://seaborn.pydata.org/index.html)
 
 This project requires also requires `visuals.py` file
